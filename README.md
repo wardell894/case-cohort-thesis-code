@@ -1,4 +1,4 @@
-# Code for the thesis
+# Code for my masters thesis
 
 R scripts for the master's thesis in Data Science at the University of Oslo (2026) by Steinar Jonathan Mpagi, on variance estimation, calibration and pure risk in the case-cohort design, with the Norwegian Offshore Petroleum Workers (NOPW) cohort as the case study.
 
